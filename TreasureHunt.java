@@ -23,12 +23,12 @@ public class TreasureHunt {
             if (choice == 1) { 
                 health -= 20;
                 coins += 10;
-                System.out.println("You fought bravely! (-20 health, +10 coins)");
+                System.out.println("You fight so! (-20 health, +10 coins)");
             }
             else if (choice == 2) { 
                 health -= 10;
                 coins += 20;
-                System.out.println("You found some treasure! (-10 health, +20 coins)");
+                System.out.println("You got small treasure! (-10 health, +20 coins)");
             }
             else if (choice == 3) { 
                 health += 15;
