@@ -1,0 +1,32 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-11",
+      "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-11.0.28.6-hotspot",
+      "default": true
+    }
+  ],
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Reversepattern",
+      "request": "launch",
+      "mainClass": "Reversepattern",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Add",
+      "request": "launch",
+      "mainClass": "Add",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_72e8cc1b"
+    }
+  ]
+}
