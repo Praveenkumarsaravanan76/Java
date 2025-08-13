@@ -9,6 +9,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Functionoverloading",
+      "request": "launch",
+      "mainClass": "Functionoverloading",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Constructoreoverloading",
+      "request": "launch",
+      "mainClass": "Constructoreoverloading",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Methodeeoverloading",
+      "request": "launch",
+      "mainClass": "Methodeeoverloading",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
       "name": "TreasureHunt",
       "request": "launch",
       "mainClass": "TreasureHunt",
