@@ -7,8 +7,9 @@ class Constructoreoverloading{
          System.out.println(d);
     }
 public static void main (String []args){
-    Constructoreoverloading mo=new Constructoreoverloading("This is the constructer Oveeloading:");
+    Constructoreoverloading mo=new Constructoreoverloading("this method is the constructer overloading:");
     Constructoreoverloading m =new Constructoreoverloading(5,6,7);
+    
 
 
 }
