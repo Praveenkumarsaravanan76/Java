@@ -9,6 +9,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Houseexample",
+      "request": "launch",
+      "mainClass": "Houseexample",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Houseexample",
+      "request": "launch",
+      "mainClass": "Houseexample",
+      "projectName": "05 java_d4eafec4"
+    },
+    {
+      "type": "java",
       "name": "Student",
       "request": "launch",
       "mainClass": "Student",
