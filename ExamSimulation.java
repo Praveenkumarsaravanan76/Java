@@ -31,7 +31,7 @@ class ExamSystem {
         } catch (InterruptedException e) {
             System.err.println("Error saving result for: " + rollNo);
         }
-        System.out.println(rollNo + " submitted exam");
+        System.out.println(rollNo + " submitted exam ");
     }
 
     public void showResults() {
