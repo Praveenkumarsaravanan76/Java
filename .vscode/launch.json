@@ -9,6 +9,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExamSimulation",
+      "request": "launch",
+      "mainClass": "ExamSimulation",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "Example",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
       "name": "Houseexample",
       "request": "launch",
       "mainClass": "Houseexample",
